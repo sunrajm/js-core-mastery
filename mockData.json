@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "usr_948201",
+    "name": "Jane Doe",
+    "email": "j***e@example.com",
+    "status": "active"
+  },
+  {
+    "user_id": "usr_315749",
+    "name": "Alex Smith",
+    "email": "a***h@domain.com",
+    "status": "inactive"
+  },
+  {
+    "user_id": "usr_620481",
+    "name": "Carlos Mendez",
+    "email": "c***z@services.net",
+    "status": "active"
+  },
+  {
+    "user_id": "usr_105932",
+    "name": "Yuki Tanaka",
+    "email": "y***a@company.org",
+    "status": "inactive"
+  },
+  {
+    "user_id": "usr_774129",
+    "name": "Chloe Dubois",
+    "email": "c***s@webspace.com",
+    "status": "active"
+  }
+]
